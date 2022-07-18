@@ -39,7 +39,7 @@ const product = reactive({
   name: '',
   price: 0,
   category: '',
-  sell: false,
+  sell: true,
   image: '',
   description: ''
 })
